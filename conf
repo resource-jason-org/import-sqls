@@ -1,0 +1,9 @@
+#!/bin/bash
+
+line=100000
+dirname=sqls
+shellPath=/opt/lampp/bin/mysql
+logfile=import.log
+user=root
+pass=
+dbname=game
